@@ -1,0 +1,12 @@
+package com.te.learnjava8.basic;
+
+public class CheckPrint {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+
+	}
+
+}
